@@ -1,6 +1,6 @@
 # Build the Graph
 
-Using the information from [01-stringdb](01-stringdb), [02-mapping](02-mapping), and [03-metadata](03-metadata), we can build a more self-describing graph where,
+Using the information from [01-stringdb](../01-stringdb), [02-mapping](../02-mapping), and [03-metadata](../03-metadata), we can build a more self-describing graph where,
 
 - Each gene is of type `biolink:Gene`
 - Each protein is of type `biolink:Protein`
@@ -22,7 +22,6 @@ Using the information from [01-stringdb](01-stringdb), [02-mapping](02-mapping),
 
 A snippet of nodes.tsv,
 
-nodes.tsv
 ```
 id	category	name	symbol	xref	synonym	in_taxon
 ENSEMBL:ENSG00000003056	biolink:Gene	mannose-6-phosphate receptor, cation dependent	M6PR	HGNC:6752|NCBIGene:4074	46-kDa mannose 6-phosphate receptor|CD Man-6-P receptor|Mr 46,000 Man6PR|cation-dependent mannose-6-phosphate receptor|small mannose 6-phosphate receptor	NCBITaxon:9606
@@ -33,7 +32,8 @@ ENSEMBL:ENSG00000005381	biolink:Gene	myeloperoxidase	MPO	HGNC:7218|NCBIGene:4353
 
 [graph_edges.tsv](graph_edges.tsv) represents all the nodes in the final graph in a TSV format.
 
-edges.tsv
+A snippet of edges.tsv,
+
 ```
 subject	predicate	object	relation	association_type	combined_score	start_interbase_coordinate	end_interbase_coordinate	strand
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000005381	RO:0002434	biolink:GeneToGeneAssociation	195			

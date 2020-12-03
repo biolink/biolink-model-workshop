@@ -20,7 +20,7 @@ ENSG00000167110	golgin A2	GOLGA2	HGNC:4425|NCBIGene:2801	130 kDa cis-Golgi matri
 From the above we get additional information about each of our gene, including its genomic location.
 
 For the sake of representation we will make the following assumptions,
-- Each gene is a node in the graph- Each gene is a node in the graph
+- Each gene is a node in the graph
 - Each identifier can be prefixed with `ENSEMBL` to yield a compact URI
 - Genomic location information can be represented as an edge in the graph
 
