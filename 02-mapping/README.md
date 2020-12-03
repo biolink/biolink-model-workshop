@@ -2,7 +2,7 @@
 
 ## Getting the data
 
-We first fetch data on Ensembl genes from NCBI FTP: ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2ensembl.gz
+We first fetch data on Ensembl genes from NCBI FTP: [ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2ensembl.gz](ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2ensembl.gz)
 
 And from that we extract relevant records to create a mapping file:
 ```
@@ -50,6 +50,8 @@ A snippet of nodes.tsv,
 id	category	in_taxon
 ENSEMBL:ENSG00000003056	biolink:Gene	NCBITaxon:9606
 ENSEMBL:ENSG00000005381	biolink:Gene	NCBITaxon:9606
+ENSEMBL:ENSP00000000412	biolink:Protein	NCBITaxon:9606
+ENSEMBL:ENSP00000218548	biolink:Protein	NCBITaxon:9606
 ...
 ```
 
@@ -61,5 +63,7 @@ A snippet of edges.tsv,
 subject	predicate	object	relation	association_type	combined_score
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000005381	RO:0002434	biolink:GeneToGeneAssociation	195
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000166598	RO:0002434	biolink:GeneToGeneAssociation	222
+ENSEMBL:ENSG00000003056	biolink:has_gene_product	ENSEMBL:ENSP00000000412	RO:0002205		
+ENSEMBL:ENSG00000005381	biolink:has_gene_product	ENSEMBL:ENSP00000225275	RO:0002205	
 ...
 ```
