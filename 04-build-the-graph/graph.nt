@@ -1,0 +1,275 @@
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000003056> <http://www.w3.org/2000/01/rdf-schema#label> "mannose-6-phosphate receptor, cation dependent"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/symbol> "M6PR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/6752> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/4074> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/synonym> "46-kDa mannose 6-phosphate receptor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/synonym> "CD Man-6-P receptor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/synonym> "Mr 46,000 Man6PR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/synonym> "cation-dependent mannose-6-phosphate receptor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/synonym> "small mannose 6-phosphate receptor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000005381> <http://www.w3.org/2000/01/rdf-schema#label> "myeloperoxidase"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/symbol> "MPO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/7218> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/4353> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/synonym> "myeloperoxidase"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000075673> <http://www.w3.org/2000/01/rdf-schema#label> "ATPase H+/K+ transporting non-gastric alpha2 subunit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/symbol> "ATP12A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/13816> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/479> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/synonym> "ATPase, H+/K+ transporting, nongastric, alpha polypeptide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/synonym> "ATPase, Na+/K+ transporting, alpha polypeptide-like 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/synonym> "potassium-transporting ATPase alpha chain 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000107295> <http://www.w3.org/2000/01/rdf-schema#label> "SH3 domain containing GRB2 like 2, endophilin A1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/symbol> "SH3GL2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/10831> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/6456> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "Endophilin A1 BAR domain"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "SH3 domain protein 2A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "SH3 domain-containing GRB2-like protein 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "SH3-domain GRB2-like 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "bA335L15.1 (SH3-domain GRB2-like 2)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "endophilin-1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/synonym> "endophilin-A1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000132698> <http://www.w3.org/2000/01/rdf-schema#label> "RAB25, member RAS oncogene family"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/symbol> "RAB25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/18238> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/57111> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/synonym> "ras-related protein Rab-25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000147889> <http://www.w3.org/2000/01/rdf-schema#label> "cyclin dependent kinase inhibitor 2A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/symbol> "CDKN2A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/1787> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/1029> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "CDK4 inhibitor p16-INK4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "alternative reading frame"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "cell cycle negative regulator beta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "cyclin-dependent kinase 4 inhibitor A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "cyclin-dependent kinase inhibitor 2A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/synonym> "multiple tumor suppressor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000157978> <http://www.w3.org/2000/01/rdf-schema#label> "low density lipoprotein receptor adaptor protein 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/symbol> "LDLRAP1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/18640> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/26119> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/synonym> "LDL receptor adaptor protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/synonym> "autosomal recessive hypercholesterolemia protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/synonym> "low density lipoprotein receptor adapter protein 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000166598> <http://www.w3.org/2000/01/rdf-schema#label> "heat shock protein 90 beta family member 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/symbol> "HSP90B1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/12028> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/7184> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "94 kDa glucose-regulated protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "endoplasmin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "endothelial cell (HBMEC) glycoprotein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "epididymis luminal protein 35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "epididymis secretory sperm binding protein Li 125m"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "heat shock protein 90 kDa beta member 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "heat shock protein 90kDa beta (Grp94), member 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "heat shock protein 90kDa beta family member 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "stress-inducible tumor rejection antigen gp96"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "tumor rejection antigen (gp96) 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/synonym> "tumor rejection antigen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000167110> <http://www.w3.org/2000/01/rdf-schema#label> "golgin A2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/symbol> "GOLGA2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/4425> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/2801> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "130 kDa cis-Golgi matrix protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "GM130 autoantigen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "Golgi matrix protein GM130"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "SY11 protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "golgi autoantigen, golgin subfamily a, 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "golgin subfamily A member 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/synonym> "golgin-95"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Gene> .
+<http://identifiers.org/ensembl/ENSG00000169223> <http://www.w3.org/2000/01/rdf-schema#label> "lectin, mannose binding 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/symbol> "LMAN2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/xref> <http://identifiers.org/hgnc/16986> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/xref> <http://www.ncbi.nlm.nih.gov/gene/10960> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/synonym> "epididymis secretory sperm binding protein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/synonym> "glycoprotein GP36b"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/synonym> "vesicular integral protein of 36 kDa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/synonym> "vesicular integral-membrane protein 36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/synonym> "vesicular integral-membrane protein VIP36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000000412> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000000412> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000000412> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000218548> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000218548> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000218548> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000225275> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000225275> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000225275> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000299767> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000299767> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000299767> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000303366> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000303366> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000303366> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000354376> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000354376> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000354376> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000363458> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000363458> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000363458> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000369981> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000369981> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000369981> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000416097> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000416097> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000416097> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<http://identifiers.org/ensembl/ENSP00000418915> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/Protein> .
+<http://identifiers.org/ensembl/ENSP00000418915> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<http://identifiers.org/ensembl/ENSP00000418915> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000001> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000001> <http://www.w3.org/2000/01/rdf-schema#label> "Chr1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000001> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000001> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000005> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000005> <http://www.w3.org/2000/01/rdf-schema#label> "Chr5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000005> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000005> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000009> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000009> <http://www.w3.org/2000/01/rdf-schema#label> "Chr9"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000009> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000009> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000012> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000012> <http://www.w3.org/2000/01/rdf-schema#label> "Chr12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000012> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000012> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000013> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000013> <http://www.w3.org/2000/01/rdf-schema#label> "Chr13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000013> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000013> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000017> <https://w3id.org/biolink/vocab/category> <https://w3id.org/biolink/vocab/GenomicEntity> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000017> <http://www.w3.org/2000/01/rdf-schema#label> "Chr17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000017> <https://w3id.org/biolink/vocab/in_taxon> <http://purl.obolibrary.org/obo/NCBITaxon_9606> .
+<https://www.example.org/UNKNOWN/NUCCORE:NC_000017> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000005381> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <https://www.example.org/UNKNOWN/combined_score> "195"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:5e7b3cf1-cb1c-458b-bf3c-85457af943e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000166598> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <https://www.example.org/UNKNOWN/combined_score> "222"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:ff01c318-a0f6-4562-84ae-cea51564c58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000167110> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <https://www.example.org/UNKNOWN/combined_score> "474"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:54b37fac-bbd0-4dd0-bdba-ef1a4955d8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000157978> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <https://www.example.org/UNKNOWN/combined_score> "902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:b2a61f7e-682f-41f1-af60-5ace30811a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000132698> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <https://www.example.org/UNKNOWN/combined_score> "161"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:27a268d4-c30d-409d-9be5-9baca0826a18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000169223> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <https://www.example.org/UNKNOWN/combined_score> "285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:3d946f89-dfaf-4b4f-a719-1fe3f96fed8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000107295> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <https://www.example.org/UNKNOWN/combined_score> "900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:9f0e7489-48d5-46ab-8b14-6abcfe91f43d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000075673> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <https://www.example.org/UNKNOWN/combined_score> "210"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:f728b85f-571a-4d62-8d12-469eb5daa012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://identifiers.org/ensembl/ENSG00000003056> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <https://w3id.org/biolink/vocab/interacts_with> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://identifiers.org/ensembl/ENSG00000147889> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <https://w3id.org/biolink/vocab/relation> <http://purl.obolibrary.org/obo/RO_0002434> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <https://w3id.org/biolink/vocab/association_type> <https://w3id.org/biolink/vocab/GeneToGeneAssociation> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <https://www.example.org/UNKNOWN/combined_score> "267"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <https://w3id.org/biolink/vocab/provided_by> "STRING" .
+<urn:uuid:8376c942-4460-4b4e-88cb-aaaf2fdf9416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "biolink:Association"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000000412> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000012> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000225275> .
+<http://identifiers.org/ensembl/ENSG00000005381> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000017> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000218548> .
+<http://identifiers.org/ensembl/ENSG00000075673> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000013> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000369981> .
+<http://identifiers.org/ensembl/ENSG00000107295> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000009> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000354376> .
+<http://identifiers.org/ensembl/ENSG00000132698> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000001> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000418915> .
+<http://identifiers.org/ensembl/ENSG00000147889> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000009> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000363458> .
+<http://identifiers.org/ensembl/ENSG00000157978> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000001> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000299767> .
+<http://identifiers.org/ensembl/ENSG00000166598> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000012> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000416097> .
+<http://identifiers.org/ensembl/ENSG00000167110> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000009> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/has_gene_product> <http://identifiers.org/ensembl/ENSP00000303366> .
+<http://identifiers.org/ensembl/ENSG00000169223> <https://w3id.org/biolink/vocab/has_sequence_location> <https://www.example.org/UNKNOWN/NUCCORE:NC_000005> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000005381> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000166598> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000167110> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000157978> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000132698> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000169223> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000107295> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000075673> .
+<http://identifiers.org/ensembl/ENSG00000003056> <https://w3id.org/biolink/vocab/interacts_with> <http://identifiers.org/ensembl/ENSG00000147889> .
