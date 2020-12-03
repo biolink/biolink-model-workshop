@@ -1,0 +1,10 @@
+subject	predicate	object	relation	association_type	combined_score
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000225275	RO:0002434	biolink:GeneToGeneAssociation	195
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000299767	RO:0002434	biolink:GeneToGeneAssociation	222
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000416097	RO:0002434	biolink:GeneToGeneAssociation	474
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000363458	RO:0002434	biolink:GeneToGeneAssociation	902
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000354376	RO:0002434	biolink:GeneToGeneAssociation	161
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000303366	RO:0002434	biolink:GeneToGeneAssociation	285
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000369981	RO:0002434	biolink:GeneToGeneAssociation	900
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000218548	RO:0002434	biolink:GeneToGeneAssociation	210
+ENSEMBL:ENSP00000000412	biolink:interacts_with	ENSEMBL:ENSP00000418915	RO:0002434	biolink:GeneToGeneAssociation	267

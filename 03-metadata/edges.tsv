@@ -1,0 +1,11 @@
+subject	predicate	object	relation	association_type	start_interbase_coordinate	end_interbase_coordinate	strand
+ENSEMBL:ENSG00000003056	biolink:has_sequence_location	NUCCORE:NC_000012	biolink:GenomicSequenceLocalization	faldo:location	8940361	8949761	-1
+ENSEMBL:ENSG00000005381	biolink:has_sequence_location	NUCCORE:NC_000017	biolink:GenomicSequenceLocalization	faldo:location	58269855	58280935	-1
+ENSEMBL:ENSG00000075673	biolink:has_sequence_location	NUCCORE:NC_000013	biolink:GenomicSequenceLocalization	faldo:location	24680408	24712472	1
+ENSEMBL:ENSG00000107295	biolink:has_sequence_location	NUCCORE:NC_000009	biolink:GenomicSequenceLocalization	faldo:location	17579066	17797124	1
+ENSEMBL:ENSG00000132698	biolink:has_sequence_location	NUCCORE:NC_000001	biolink:GenomicSequenceLocalization	faldo:location	156061160	156070504	1
+ENSEMBL:ENSG00000147889	biolink:has_sequence_location	NUCCORE:NC_000009	biolink:GenomicSequenceLocalization	faldo:location	21967753	21995301	-1
+ENSEMBL:ENSG00000157978	biolink:has_sequence_location	NUCCORE:NC_000001	biolink:GenomicSequenceLocalization	faldo:location	25543606	25568886	1
+ENSEMBL:ENSG00000166598	biolink:has_sequence_location	NUCCORE:NC_000012	biolink:GenomicSequenceLocalization	faldo:location	103930107	103953645	1
+ENSEMBL:ENSG00000167110	biolink:has_sequence_location	NUCCORE:NC_000009	biolink:GenomicSequenceLocalization	faldo:location	128255829	128275995	-1
+ENSEMBL:ENSG00000169223	biolink:has_sequence_location	NUCCORE:NC_000005	biolink:GenomicSequenceLocalization	faldo:location	177331567	177351668	-1

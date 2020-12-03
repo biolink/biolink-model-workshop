@@ -1,0 +1,17 @@
+id	category	name	symbol	xref	synonym	in_taxon
+ENSEMBL:ENSG00000003056	biolink:Gene	mannose-6-phosphate receptor, cation dependent	M6PR	HGNC:6752|NCBIGene:4074	46-kDa mannose 6-phosphate receptor|CD Man-6-P receptor|Mr 46,000 Man6PR|cation-dependent mannose-6-phosphate receptor|small mannose 6-phosphate receptor	NCBITaxon:9606
+ENSEMBL:ENSG00000005381	biolink:Gene	myeloperoxidase	MPO	HGNC:7218|NCBIGene:4353	myeloperoxidase	NCBITaxon:9606
+ENSEMBL:ENSG00000075673	biolink:Gene	ATPase H+/K+ transporting non-gastric alpha2 subunit	ATP12A	HGNC:13816|NCBIGene:479	ATPase, H+/K+ transporting, nongastric, alpha polypeptide|ATPase, Na+/K+ transporting, alpha polypeptide-like 1|potassium-transporting ATPase alpha chain 2	NCBITaxon:9606
+ENSEMBL:ENSG00000107295	biolink:Gene	SH3 domain containing GRB2 like 2, endophilin A1	SH3GL2	HGNC:10831|NCBIGene:6456	Endophilin A1 BAR domain|SH3 domain protein 2A|SH3 domain-containing GRB2-like protein 2|SH3-domain GRB2-like 2|bA335L15.1 (SH3-domain GRB2-like 2)|endophilin-1|endophilin-A1	NCBITaxon:9606
+ENSEMBL:ENSG00000132698	biolink:Gene	RAB25, member RAS oncogene family	RAB25	HGNC:18238|NCBIGene:57111	ras-related protein Rab-25	NCBITaxon:9606
+ENSEMBL:ENSG00000147889	biolink:Gene	cyclin dependent kinase inhibitor 2A	CDKN2A	HGNC:1787|NCBIGene:1029	CDK4 inhibitor p16-INK4|alternative reading frame|cell cycle negative regulator beta|cyclin-dependent kinase 4 inhibitor A|cyclin-dependent kinase inhibitor 2A|cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)|multiple tumor suppressor	NCBITaxon:9606
+ENSEMBL:ENSG00000157978	biolink:Gene	low density lipoprotein receptor adaptor protein 1	LDLRAP1	HGNC:18640|NCBIGene:26119	LDL receptor adaptor protein|autosomal recessive hypercholesterolemia protein|low density lipoprotein receptor adapter protein 1	NCBITaxon:9606
+ENSEMBL:ENSG00000166598	biolink:Gene	heat shock protein 90 beta family member 1	HSP90B1	HGNC:12028|NCBIGene:7184	94 kDa glucose-regulated protein|endoplasmin|endothelial cell (HBMEC) glycoprotein|epididymis luminal protein 35|epididymis secretory sperm binding protein Li 125m|heat shock protein 90 kDa beta member 1|heat shock protein 90kDa beta (Grp94), member 1|heat shock protein 90kDa beta family member 1|stress-inducible tumor rejection antigen gp96|tumor rejection antigen (gp96) 1|tumor rejection antigen	NCBITaxon:9606
+ENSEMBL:ENSG00000167110	biolink:Gene	golgin A2	GOLGA2	HGNC:4425|NCBIGene:2801	130 kDa cis-Golgi matrix protein|GM130 autoantigen|Golgi matrix protein GM130|SY11 protein|golgi autoantigen, golgin subfamily a, 2|golgin subfamily A member 2|golgin-95	NCBITaxon:9606
+ENSEMBL:ENSG00000169223	biolink:Gene	lectin, mannose binding 2	LMAN2	HGNC:16986|NCBIGene:10960	epididymis secretory sperm binding protein|glycoprotein GP36b|vesicular integral protein of 36 kDa|vesicular integral-membrane protein 36|vesicular integral-membrane protein VIP36	NCBITaxon:9606
+NUCCORE:NC_000001	biolink:GenomicEntity	Chr1				NCBITaxon:9606
+NUCCORE:NC_000005	biolink:GenomicEntity	Chr5				NCBITaxon:9606
+NUCCORE:NC_000009	biolink:GenomicEntity	Chr9				NCBITaxon:9606
+NUCCORE:NC_000012	biolink:GenomicEntity	Chr12				NCBITaxon:9606
+NUCCORE:NC_000013	biolink:GenomicEntity	Chr13				NCBITaxon:9606
+NUCCORE:NC_000017	biolink:GenomicEntity	Chr17				NCBITaxon:9606
