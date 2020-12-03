@@ -1,4 +1,4 @@
-subject	edge_label	object	relation	association_type	combined_score	start_interbase_coordinate	end_interbase_coordinate	strand
+subject	predicate	object	relation	association_type	combined_score	start_interbase_coordinate	end_interbase_coordinate	strand
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000005381	RO:0002434	biolink:GeneToGeneAssociation	195			
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000166598	RO:0002434	biolink:GeneToGeneAssociation	222			
 ENSEMBL:ENSG00000003056	biolink:interacts_with	ENSEMBL:ENSG00000167110	RO:0002434	biolink:GeneToGeneAssociation	474			
